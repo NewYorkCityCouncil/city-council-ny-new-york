@@ -34,6 +34,8 @@ Maintaining Data
 
 This City Council Data is maintained in a Google Spreadsheet.  This data can be updated by the general public, and we will be notified when any change occurs.  So, if you see something wrong, just go ahead and fix it and we'll get a notice of the change.
 
+You will want to use [New York's Official City Council Website](http://council.nyc.gov/html/members/members.shtml) to populate this data. However, they may not have 100% of what we collect, so Google is your friend there :)
+
 ### [☑ Manage City Council Data](http://bit.ly/city-council-ny-new-york)
 
 
