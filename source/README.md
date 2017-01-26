@@ -42,7 +42,7 @@ City Councilor Headshots
 #### Image Guidelines:
 
 1. Find and download a High Resolution Images for each City Councilor
-2. Use a Photo Editor ( [https://pixlr.com/editor/](https://pixlr.com/editor/) if you do not already have one ) and export an image with a name like `firstname-lastname.jpg` ( using their actual first and last name, all lower case letters, using only letters a-z and replace all spaces with dashes ). Make sure the image is exactly 1024 pixels wide by 1024 pixels tall ( Download [./headshots/template.jpg](./source/headshots/template.jpg) if you need an image template )
+2. Use a Photo Editor ( [https://pixlr.com/editor/](https://pixlr.com/editor/) if you do not already have one ) and export an image with a name like `firstname-lastname.jpg` ( using their actual first and last name, all lower case letters, using only letters a-z and replace all spaces with dashes ). Make sure the image is exactly 1024 pixels wide by 1024 pixels tall ( Download [./source/headshots/template.jpg](./headshots/template.jpg) if you need an image template )
 3. Upload the file named something like `firstname-lastname.jpg` into this `./source/headshots/` directory
 
 #### Image Automation:
