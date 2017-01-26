@@ -2,7 +2,7 @@ var fs = require('fs');
 var csv = require('fast-csv');
 var slug = require('slug');
 
-var core = 'uploads/city-council-data.csv';
+var core = 'source/city-council-data.csv';
 
 if (fs.existsSync(core)) {
   var stream = fs.createReadStream(core);

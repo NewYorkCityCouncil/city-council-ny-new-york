@@ -6,7 +6,7 @@ var image960x540 = 'city-council/images/backgrounds/960x540/';
 var image1280x720 = 'city-council/images/backgrounds/1280x720/';
 var image1920x1080 = 'city-council/images/backgrounds/1920x1080/';
 
-glob('uploads/city.jpg', {}, function (er, files) {
+glob('source/city.jpg', {}, function (er, files) {
   if (files.length === 0) {
     console.log('× No background images to convert');
   } else {

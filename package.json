@@ -56,7 +56,7 @@
     "resize-headshots": "node ./.scripts/resize-headshots.js",
     "resize-backgrounds": "node ./.scripts/resize-backgrounds.js",
     "console-headshots": "node ./.scripts/console-headshots.js",
-    "convert-csv": "if ( test -e ./uploads/city-council-data.csv ); then node ./.scripts/convert-csv.js; else echo '\n× Missing ./uploads/city-council-data.csv ( see ./uploads/README.md )\n'; fi",
+    "convert-csv": "if ( test -e ./source/city-council-data.csv ); then node ./.scripts/convert-csv.js; else echo '\n× Missing ./source/city-council-data.csv ( see ./source/README.md )\n'; fi",
     "build-images": "npm run -s resize-headshots && npm run -s resize-backgrounds && echo '\n☆ Image Conversion Complete\n'",
     "build-data": "if ( test -e ./city-council/data/city-council-data.csv ); then npm run -s csv-to-json && npm run -s json-to-yml && npm run -s json-to-xml && npm run -s csv-to-sql && echo '\n☆ Data Conversion Complete\n'; else echo '\n× Missing ./city-council/data/city-council-data.csv\n'; fi",
     "build": "npm run -s convert-csv && npm run -s build-data && npm run -s build-images && echo '\n☆ヽ(´▽｀)ノ All Done \n'"

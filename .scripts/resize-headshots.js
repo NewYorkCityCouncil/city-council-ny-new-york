@@ -7,7 +7,7 @@ var image256 = 'city-council/images/headshots/256x256/';
 var image512 = 'city-council/images/headshots/512x512/';
 var image1024 = 'city-council/images/headshots/1024x1024/';
 
-glob('uploads/headshots/*.jpg', { ignore: 'uploads/headshots/template.jpg' }, function (er, files) {
+glob('source/headshots/*.jpg', { ignore: 'source/headshots/template.jpg' }, function (er, files) {
   if (files.length === 0) {
     console.log('× No headshot images to convert');
   } else {

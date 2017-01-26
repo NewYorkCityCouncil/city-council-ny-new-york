@@ -9,7 +9,7 @@ if (!Object.values) {
   values.shim();
 }
 
-var core = 'uploads/city-council-data.csv';
+var core = 'source/city-council-data.csv';
 var converted = 'city-council/data/city-council-data.csv';
 var currentRow = 0;
 var stateCodes = {
@@ -245,8 +245,6 @@ if (fs.existsSync(core)) {
         facebook_url: data.facebook_url,
         photo_url: cdnHeadshotPath
       };
-
-      console.log(typeof data.district, '"' + data.district + '"', convertedData.district);
 
       if (currentRow === 0) {
         var header = Object.keys(convertedData).join(',') + '\n';
