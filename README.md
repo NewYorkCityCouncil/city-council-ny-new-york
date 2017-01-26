@@ -81,6 +81,7 @@ Parameter                                  | Type   | Description
 `address_state`                     | string | Mailing Address State
 `address_zipcode`                   | string | Mailing Address zipcode
 `address_type`                      | string | Mailing Address Type
+`twitter_handle`                    | string | Twitter Handle of Councilor ( not always available )
 `twitter_url`                       | string | Twitter URL of Councilor ( not always available )
 `facebook_url`                      | string | Facebook URL of Councilor ( not always available )
 `photo_url`                         | string | Photo URL of Councilor ( not always available )
