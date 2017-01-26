@@ -1,0 +1,2228 @@
+---
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 1
+    at_large: false
+    name: "Margaret Chin"
+    name_slug: "margaret-chin"
+    first_name: "Margaret"
+    last_name: "Chin"
+    gender: "female"
+    ethnicity: "asian-american"
+    date_of_birth: "1954-05-26"
+    title: "councilor"
+    party: "democrat"
+    email: "chin@council.nyc.gov"
+    phone: "212-587-3159"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "CM_MargaretChin"
+    twitter_url: "https://twitter.com/CM_MargaretChin"
+    facebook_url: "https://www.facebook.com/councilmembermargaret.chin"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/margaret-chin.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 2
+    at_large: false
+    name: "Rosie Mendez"
+    name_slug: "rosie-mendez"
+    first_name: "Rosie"
+    last_name: "Mendez"
+    gender: "female"
+    ethnicity: "hispanic-american"
+    date_of_birth: "1963-02-28"
+    title: "councilor"
+    party: "democrat"
+    email: "rmendez@council.nyc.gov"
+    phone: "212-677-1077"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "RosieMendez"
+    twitter_url: "https://twitter.com/RosieMendez"
+    facebook_url: "https://www.facebook.com/rosie.mendez"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/rosie-mendez.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 3
+    at_large: false
+    name: "Corey Johnson"
+    name_slug: "corey-johnson"
+    first_name: "Corey"
+    last_name: "Johnson"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1982-04-28"
+    title: "councilor"
+    party: "democrat"
+    email: "district3@council.nyc.gov"
+    phone: "212-564-7757"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "CoreyinNYC"
+    twitter_url: "https://twitter.com/CoreyinNYC"
+    facebook_url: "https://www.facebook.com/corey.d.johnson"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/corey-johnson.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 4
+    at_large: false
+    name: "Daniel Garodnick"
+    name_slug: "daniel-garodnick"
+    first_name: "Daniel"
+    last_name: "Garodnick"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1972-05-04"
+    title: "councilor"
+    party: "democrat"
+    email: "garodnick@council.nyc.gov"
+    phone: "212-818-0580"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "DanGarodnick"
+    twitter_url: "https://twitter.com/DanGarodnick"
+    facebook_url: "https://www.facebook.com/DanGarodnick"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/daniel-garodnick.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 5
+    at_large: false
+    name: "Ben Kallos"
+    name_slug: "ben-kallos"
+    first_name: "Ben"
+    last_name: "Kallos"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1981-02-05"
+    title: "councilor"
+    party: "democrat"
+    email: "bkallos@council.nyc.gov"
+    phone: "212-860-1950"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "kallos"
+    twitter_url: "https://twitter.com/kallos"
+    facebook_url: "https://www.facebook.com/benkallos"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/ben-kallos.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 6
+    at_large: false
+    name: "Helen Rosenthal"
+    name_slug: "helen-rosenthal"
+    first_name: "Helen"
+    last_name: "Rosenthal"
+    gender: "female"
+    ethnicity: "white-american"
+    date_of_birth: "1960-10-24"
+    title: "councilor"
+    party: "democrat"
+    email: "helen@helenrosenthal.com"
+    phone: "212-873-0282"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "HelenRosenthal"
+    twitter_url: "https://twitter.com/HelenRosenthal"
+    facebook_url: "https://www.facebook.com/CouncilMemberHelenRosenthal"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/helen-rosenthal.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 7
+    at_large: false
+    name: "Mark Levine"
+    name_slug: "mark-levine"
+    first_name: "Mark"
+    last_name: "Levine"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1969-04-30"
+    title: "councilor"
+    party: "democrat"
+    email: "district7@council.nyc.gov"
+    phone: "212-928-6814"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "MarkLevineNYC"
+    twitter_url: "https://twitter.com/MarkLevineNYC"
+    facebook_url: "https://www.facebook.com/markdlevine"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/mark-levine.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 8
+    at_large: false
+    name: "Melissa  Mark-Viverito"
+    name_slug: "melissa-mark-viverito"
+    first_name: "Melissa "
+    last_name: "Mark-Viverito"
+    gender: "female"
+    ethnicity: "white-american"
+    date_of_birth: "1969-04-01"
+    title: "councilor"
+    party: "democrat"
+    email: "mviverito@council.nyc.gov"
+    phone: "212-828-9800"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "MMViverito"
+    twitter_url: "https://twitter.com/MMViverito"
+    facebook_url: "https://www.facebook.com/mmviverito"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/melissa-mark-viverito.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 9
+    at_large: false
+    name: "Inez Dickens"
+    name_slug: "inez-dickens"
+    first_name: "Inez"
+    last_name: "Dickens"
+    gender: "female"
+    ethnicity: "african-american"
+    date_of_birth: null
+    title: "councilor"
+    party: "democrat"
+    email: "dickens@council.nyc.gov"
+    phone: "212-678-4505"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "ie_dickens"
+    twitter_url: "https://twitter.com/ie_dickens"
+    facebook_url: "https://www.facebook.com/Inez-E-Dickens-84792331605"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/inez-dickens.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 10
+    at_large: false
+    name: "Ydanis Rodriguez"
+    name_slug: "ydanis-rodriguez"
+    first_name: "Ydanis"
+    last_name: "Rodriguez"
+    gender: "male"
+    ethnicity: "hispanic-american"
+    date_of_birth: "1965-06-18"
+    title: "councilor"
+    party: "democrat"
+    email: "yrodriguez@council.nyc.gov"
+    phone: "917-521-2616"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "ydanis"
+    twitter_url: "https://twitter.com/ydanis"
+    facebook_url: "https://www.facebook.com/ydanis.rodriguez.1"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/ydanis-rodriguez.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 11
+    at_large: false
+    name: "Andrew Cohen"
+    name_slug: "andrew-cohen"
+    first_name: "Andrew"
+    last_name: "Cohen"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1969-08-09"
+    title: "councilor"
+    party: "democrat"
+    email: "district11@council.nyc.gov"
+    phone: "718-549-7300"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "AndrewCohenNYC"
+    twitter_url: "https://twitter.com/AndrewCohenNYC"
+    facebook_url: "https://www.facebook.com/Council-Member-Andrew-Cohen-402337503202703"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/andrew-cohen.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 12
+    at_large: false
+    name: "Andy King"
+    name_slug: "andy-king"
+    first_name: "Andy"
+    last_name: "King"
+    gender: "male"
+    ethnicity: "african-american"
+    date_of_birth: null
+    title: "councilor"
+    party: "democrat"
+    email: "andy.king@council.nyc.gov"
+    phone: "718-684-5509"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "AndyKingNYC"
+    twitter_url: "https://twitter.com/AndyKingNYC"
+    facebook_url: "https://www.facebook.com/New-York-City-Council-Member-Andy-L-King-116867358490208"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/andy-king.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 13
+    at_large: false
+    name: "James Vacca"
+    name_slug: "james-vacca"
+    first_name: "James"
+    last_name: "Vacca"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1955-08-23"
+    title: "councilor"
+    party: "democrat"
+    email: "jvacca@council.nyc.gov"
+    phone: "718-931-1721"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "jamesvacca13"
+    twitter_url: "https://twitter.com/jamesvacca13"
+    facebook_url: "https://www.facebook.com/CouncilMemberJamesVacca"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/james-vacca.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 14
+    at_large: false
+    name: "Fernando Cabrera"
+    name_slug: "fernando-cabrera"
+    first_name: "Fernando"
+    last_name: "Cabrera"
+    gender: "male"
+    ethnicity: "hispanic-american"
+    date_of_birth: "1964-04-18"
+    title: "councilor"
+    party: "democrat"
+    email: "fcabrera@council.nyc.gov"
+    phone: "347-590-2874"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "FCabreraNY"
+    twitter_url: "https://twitter.com/FCabreraNY"
+    facebook_url: "https://www.facebook.com/councilmembercabrera"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/fernando-cabrera.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 15
+    at_large: false
+    name: "Ritchie Torres"
+    name_slug: "ritchie-torres"
+    first_name: "Ritchie"
+    last_name: "Torres"
+    gender: "male"
+    ethnicity: "african-american"
+    date_of_birth: "1988-03-12"
+    title: "deputy-leader"
+    party: "democrat"
+    email: "rtorres@council.nyc.gov"
+    phone: "718-842-8100"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "ritchietorres"
+    twitter_url: "https://twitter.com/ritchietorres"
+    facebook_url: "https://www.facebook.com/RitchieTorresNYC"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/ritchie-torres.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 16
+    at_large: false
+    name: "Vanessa Gibson"
+    name_slug: "vanessa-gibson"
+    first_name: "Vanessa"
+    last_name: "Gibson"
+    gender: "female"
+    ethnicity: "african-american"
+    date_of_birth: "1979-03-19"
+    title: "councilor"
+    party: "democrat"
+    email: "district16bronx@council.nyc.gov"
+    phone: "718-588-7500"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "Vanessalgibson"
+    twitter_url: "https://twitter.com/Vanessalgibson"
+    facebook_url: "https://www.facebook.com/VanessaGibsonNYC"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/vanessa-gibson.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 17
+    at_large: false
+    name: "Rafael Salamanca"
+    name_slug: "rafael-salamanca"
+    first_name: "Rafael"
+    last_name: "Salamanca"
+    gender: "male"
+    ethnicity: "hispanic-american"
+    date_of_birth: "1980-07-02"
+    title: "councilor"
+    party: "democrat"
+    email: "salamanca@council.nyc.gov"
+    phone: "718-402-6130"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "salamancajr80"
+    twitter_url: "https://twitter.com/salamancajr80"
+    facebook_url: "https://www.facebook.com/rafael.salamanca.501"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/rafael-salamanca.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 18
+    at_large: false
+    name: "Annabel Palma"
+    name_slug: "annabel-palma"
+    first_name: "Annabel"
+    last_name: "Palma"
+    gender: "male"
+    ethnicity: "african-american"
+    date_of_birth: null
+    title: "councilor"
+    party: "democrat"
+    email: "apalma@council.nyc.gov"
+    phone: "718-792-1140"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "palmaannabel"
+    twitter_url: "https://twitter.com/palmaannabel"
+    facebook_url: "https://www.facebook.com/annabel.palma"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/annabel-palma.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 19
+    at_large: false
+    name: "Paul Vallone"
+    name_slug: "paul-vallone"
+    first_name: "Paul"
+    last_name: "Vallone"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1967-06-02"
+    title: "councilor"
+    party: "democrat"
+    email: "district19@council.nyc.gov"
+    phone: "718-619-8611"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "PaulVallone"
+    twitter_url: "https://twitter.com/PaulVallone"
+    facebook_url: "https://www.facebook.com/CouncilMemberPaulVallone"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/paul-vallone.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 20
+    at_large: false
+    name: "Peter Koo"
+    name_slug: "peter-koo"
+    first_name: "Peter"
+    last_name: "Koo"
+    gender: "male"
+    ethnicity: "asian-american"
+    date_of_birth: "1952-01-12"
+    title: "councilor"
+    party: "democrat"
+    email: "pkoo@council.nyc.gov"
+    phone: "718-888-8747"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "cmpeterkoo"
+    twitter_url: "https://twitter.com/cmpeterkoo"
+    facebook_url: "https://www.facebook.com/Peter-Koo-207749175523"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/peter-koo.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 21
+    at_large: false
+    name: "Julissa  Ferreras-Copeland"
+    name_slug: "julissa-ferreras-copeland"
+    first_name: "Julissa "
+    last_name: "Ferreras-Copeland"
+    gender: "female"
+    ethnicity: "african-american"
+    date_of_birth: "1976-11-02"
+    title: "councilor"
+    party: "democrat"
+    email: "cd21invites@council.nyc.gov"
+    phone: "718-651-1917"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "JulissaFerreras"
+    twitter_url: "https://twitter.com/JulissaFerreras"
+    facebook_url: "https://www.facebook.com/Julissa.Ferreras"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/julissa-ferreras-copeland.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 22
+    at_large: false
+    name: "Costa Constantinides"
+    name_slug: "costa-constantinides"
+    first_name: "Costa"
+    last_name: "Constantinides"
+    gender: "male"
+    ethnicity: "hispanic-american"
+    date_of_birth: "1975-01-07"
+    title: "councilor"
+    party: "democrat"
+    email: "costa@council.nyc.gov"
+    phone: "718-274-4500"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "Costa4NY"
+    twitter_url: "https://twitter.com/Costa4NY"
+    facebook_url: "https://www.facebook.com/costaforastoria"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/costa-constantinides.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 23
+    at_large: false
+    name: "Barry Grodenchik"
+    name_slug: "barry-grodenchik"
+    first_name: "Barry"
+    last_name: "Grodenchik"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1960-02-12"
+    title: "councilor"
+    party: "democrat"
+    email: "m23@council.nyc.gov"
+    phone: "718-468-0137"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "barrygrodenchik"
+    twitter_url: "https://twitter.com/barrygrodenchik"
+    facebook_url: "https://www.facebook.com/bgrodenchik"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/barry-grodenchik.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 24
+    at_large: false
+    name: "Rory Lancman"
+    name_slug: "rory-lancman"
+    first_name: "Rory"
+    last_name: "Lancman"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1969-03-01"
+    title: "councilor"
+    party: "democrat"
+    email: "rlancman@council.nyc.gov"
+    phone: "718-217-4969"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "RoryLancman"
+    twitter_url: "https://twitter.com/RoryLancman"
+    facebook_url: "https://www.facebook.com/RoryLancman"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/rory-lancman.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 25
+    at_large: false
+    name: "Daniel Dromm"
+    name_slug: "daniel-dromm"
+    first_name: "Daniel"
+    last_name: "Dromm"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: null
+    title: "councilor"
+    party: "democrat"
+    email: "ddromm@council.nyc.gov"
+    phone: "718-803-6373"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "dromm25"
+    twitter_url: "https://twitter.com/dromm25"
+    facebook_url: "https://www.facebook.com/Daniel-Dromm-18241697139"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/daniel-dromm.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 26
+    at_large: false
+    name: "Jimmy Van Bramer"
+    name_slug: "jimmy-van-bramer"
+    first_name: "Jimmy"
+    last_name: "Van Bramer"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1969-08-19"
+    title: "majority-leader"
+    party: "democrat"
+    email: "jvanbramer@council.nyc.gov"
+    phone: "718-383-9566"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "JimmyVanBramer"
+    twitter_url: "https://twitter.com/JimmyVanBramer"
+    facebook_url: "https://www.facebook.com/Jimmy-Van-Bramer-125696285699"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/jimmy-van-bramer.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 27
+    at_large: false
+    name: "Daneek Miller"
+    name_slug: "daneek-miller"
+    first_name: "Daneek"
+    last_name: "Miller"
+    gender: "male"
+    ethnicity: "african-american"
+    date_of_birth: "1960-11-06"
+    title: "councilor"
+    party: "democrat"
+    email: "district27@council.nyc.gov"
+    phone: "718-776-3700"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "IDaneekMiller"
+    twitter_url: "https://twitter.com/IDaneekMiller"
+    facebook_url: "https://www.facebook.com/daneek.miller"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/daneek-miller.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 28
+    at_large: false
+    name: "Ruben Wills"
+    name_slug: "ruben-wills"
+    first_name: "Ruben"
+    last_name: "Wills"
+    gender: "male"
+    ethnicity: "african-american"
+    date_of_birth: null
+    title: "councilor"
+    party: "democrat"
+    email: "rw@council.nyv.gov"
+    phone: "718-206-2068"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "CM_RubenWills"
+    twitter_url: "https://twitter.com/CM_RubenWills"
+    facebook_url: "https://www.facebook.com/CouncilMemberRubenWills"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/ruben-wills.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 29
+    at_large: false
+    name: "Karen Koslowitz"
+    name_slug: "karen-koslowitz"
+    first_name: "Karen"
+    last_name: "Koslowitz"
+    gender: "female"
+    ethnicity: "white-american"
+    date_of_birth: null
+    title: "councilor"
+    party: "democrat"
+    email: "koslowitz@council.nyc.gov"
+    phone: "718-544-8800"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "cmkoslowitz"
+    twitter_url: "https://twitter.com/cmkoslowitz"
+    facebook_url: "https://www.facebook.com/Karen-Koslowitz-119475124337"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/karen-koslowitz.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 30
+    at_large: false
+    name: "Elizabeth Crowley"
+    name_slug: "elizabeth-crowley"
+    first_name: "Elizabeth"
+    last_name: "Crowley"
+    gender: "female"
+    ethnicity: "white-american"
+    date_of_birth: "1977-11-27"
+    title: "councilor"
+    party: "democrat"
+    email: "ecrowley@council.nyc.gov"
+    phone: "718-366-3900"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "elizcrowleynyc"
+    twitter_url: "https://twitter.com/elizcrowleynyc"
+    facebook_url: "https://www.facebook.com/elizcrowleynyc"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/elizabeth-crowley.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 31
+    at_large: false
+    name: "Donovan Richards"
+    name_slug: "donovan-richards"
+    first_name: "Donovan"
+    last_name: "Richards"
+    gender: "male"
+    ethnicity: "african-american"
+    date_of_birth: null
+    title: "councilor"
+    party: "democrat"
+    email: "drichards@council.nyc.gov"
+    phone: "718-471-7014"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "DRichards13"
+    twitter_url: "https://twitter.com/DRichards13"
+    facebook_url: "https://www.facebook.com/drichardsnyccouncil"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/donovan-richards.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 32
+    at_large: false
+    name: "Eric Ulrich"
+    name_slug: "eric-ulrich"
+    first_name: "Eric"
+    last_name: "Ulrich"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1985-02-13"
+    title: "councilor"
+    party: "republican"
+    email: "eulrich@council.nyc.gov"
+    phone: "718-738-1083"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "eric_ulrich"
+    twitter_url: "https://twitter.com/eric_ulrich"
+    facebook_url: "https://www.facebook.com/ericulrich32"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/eric-ulrich.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 33
+    at_large: false
+    name: "Stephen Levin"
+    name_slug: "stephen-levin"
+    first_name: "Stephen"
+    last_name: "Levin"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1981-12-03"
+    title: "councilor"
+    party: "democrat"
+    email: "slevin@council.nyc.gov"
+    phone: "718-875-5200"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "StephenLevin33"
+    twitter_url: "https://twitter.com/StephenLevin33"
+    facebook_url: "https://www.facebook.com/stephen.levin1"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/stephen-levin.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 34
+    at_large: false
+    name: "Antonio Reynoso"
+    name_slug: "antonio-reynoso"
+    first_name: "Antonio"
+    last_name: "Reynoso"
+    gender: "male"
+    ethnicity: "african-american"
+    date_of_birth: "1983-05-09"
+    title: "councilor"
+    party: "democrat"
+    email: "areynoso@council.nyc.gov"
+    phone: "718-963-3141"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "CMReynoso34"
+    twitter_url: "https://twitter.com/CMReynoso34"
+    facebook_url: "https://www.facebook.com/Antonio4Council"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/antonio-reynoso.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 35
+    at_large: false
+    name: "Laurie Cumbo"
+    name_slug: "laurie-cumbo"
+    first_name: "Laurie"
+    last_name: "Cumbo"
+    gender: "female"
+    ethnicity: "african-american"
+    date_of_birth: "1975-02-21"
+    title: "councilor"
+    party: "democrat"
+    email: "lcumbo@council.nyc.gov"
+    phone: "718-260-9191"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "cmlauriecumbo"
+    twitter_url: "https://twitter.com/cmlauriecumbo"
+    facebook_url: "https://www.facebook.com/CMLaurieCumbo"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/laurie-cumbo.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 36
+    at_large: false
+    name: "Robert Cornegy"
+    name_slug: "robert-cornegy"
+    first_name: "Robert"
+    last_name: "Cornegy"
+    gender: "male"
+    ethnicity: "african-american"
+    date_of_birth: null
+    title: "councilor"
+    party: "democrat"
+    email: "rcornegy@council.nyc.gov"
+    phone: "718-919-0740"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "RobertCornegyJr"
+    twitter_url: "https://twitter.com/RobertCornegyJr"
+    facebook_url: "https://www.facebook.com/CouncilMemberRobertCornegy"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/robert-cornegy.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 37
+    at_large: false
+    name: "Rafael Espinal"
+    name_slug: "rafael-espinal"
+    first_name: "Rafael"
+    last_name: "Espinal"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: null
+    title: "councilor"
+    party: "democrat"
+    email: "respinal@council.nyc.gov"
+    phone: "718-642-8664"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "rlespinal"
+    twitter_url: "https://twitter.com/rlespinal"
+    facebook_url: "https://www.facebook.com/RafaelLEspinaljr"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/rafael-espinal.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 38
+    at_large: false
+    name: "Carlos Menchaca"
+    name_slug: "carlos-menchaca"
+    first_name: "Carlos"
+    last_name: "Menchaca"
+    gender: "male"
+    ethnicity: "hispanic-american"
+    date_of_birth: "1980-09-11"
+    title: "councilor"
+    party: "democrat"
+    email: "info38@council.nyc.gov"
+    phone: "718-439-9012"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "cmenchaca"
+    twitter_url: "https://twitter.com/cmenchaca"
+    facebook_url: "https://www.facebook.com/Menchaca.Carlos.Jr"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/carlos-menchaca.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 39
+    at_large: false
+    name: "Brad Lander"
+    name_slug: "brad-lander"
+    first_name: "Brad"
+    last_name: "Lander"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: null
+    title: "councilor"
+    party: "democrat"
+    email: "lander@council.nyc.gov"
+    phone: "718-499-1090"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "bradlander"
+    twitter_url: "https://twitter.com/bradlander"
+    facebook_url: "https://www.facebook.com/BradLander"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/brad-lander.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 40
+    at_large: false
+    name: "Mathieu Eugene"
+    name_slug: "mathieu-eugene"
+    first_name: "Mathieu"
+    last_name: "Eugene"
+    gender: "male"
+    ethnicity: "african-american"
+    date_of_birth: "1954-04-01"
+    title: "councilor"
+    party: "democrat"
+    email: "mathieu.eugene@council.nyc.gov"
+    phone: "718-287-8762"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "CMMathieuEugene"
+    twitter_url: "https://twitter.com/CMMathieuEugene"
+    facebook_url: "https://www.facebook.com/mathieu.eugene.50"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/mathieu-eugene.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 41
+    at_large: false
+    name: "Darlene Mealy"
+    name_slug: "darlene-mealy"
+    first_name: "Darlene"
+    last_name: "Mealy"
+    gender: "female"
+    ethnicity: "african-american"
+    date_of_birth: null
+    title: "councilor"
+    party: "democrat"
+    email: "mealy@council.nyc.gov"
+    phone: "718-953-3097"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "cmdarlenemealy"
+    twitter_url: "https://twitter.com/cmdarlenemealy"
+    facebook_url: "https://www.facebook.com/CityCouncilwomanDarleneMealy"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/darlene-mealy.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 42
+    at_large: false
+    name: "Inez Barron"
+    name_slug: "inez-barron"
+    first_name: "Inez"
+    last_name: "Barron"
+    gender: "female"
+    ethnicity: "african-american"
+    date_of_birth: null
+    title: "councilor"
+    party: "democrat"
+    email: "barron@council.nyc.gov"
+    phone: "718-649-9495"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: null
+    twitter_url: null
+    facebook_url: null
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/inez-barron.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 43
+    at_large: false
+    name: "Vincent Gentile"
+    name_slug: "vincent-gentile"
+    first_name: "Vincent"
+    last_name: "Gentile"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1959-01-03"
+    title: "councilor"
+    party: "democrat"
+    email: "vgentile@council.nyc.gov"
+    phone: "718-748-5200"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "VGentile43"
+    twitter_url: "https://twitter.com/VGentile43"
+    facebook_url: "https://www.facebook.com/CouncilmanGentile"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/vincent-gentile.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 44
+    at_large: false
+    name: "David Greenfield"
+    name_slug: "david-greenfield"
+    first_name: "David"
+    last_name: "Greenfield"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: null
+    title: "councilor"
+    party: "democrat"
+    email: "dgreenfield@council.nyc.gov"
+    phone: "718-853-2704"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "NYCGreenfield"
+    twitter_url: "https://twitter.com/NYCGreenfield"
+    facebook_url: "https://www.facebook.com/david.g.greenfield"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/david-greenfield.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 45
+    at_large: false
+    name: "Jumaane Williams"
+    name_slug: "jumaane-williams"
+    first_name: "Jumaane"
+    last_name: "Williams"
+    gender: "male"
+    ethnicity: "african-american"
+    date_of_birth: "1976-05-11"
+    title: "councilor"
+    party: "democrat"
+    email: "jwilliams@council.nyc.gov"
+    phone: "718-629-2900"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "JumaaneWilliams"
+    twitter_url: "https://twitter.com/JumaaneWilliams"
+    facebook_url: "https://www.facebook.com/jumaane.williamscouncil"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/jumaane-williams.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 46
+    at_large: false
+    name: "Alan Maisel"
+    name_slug: "alan-maisel"
+    first_name: "Alan"
+    last_name: "Maisel"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1945-07-25"
+    title: "councilor"
+    party: "democrat"
+    email: "amaisel@council.nyc.gov"
+    phone: "718-241-9330"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: null
+    twitter_url: null
+    facebook_url: "https://www.facebook.com/Alan-Maisel-101012230083901"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/alan-maisel.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 47
+    at_large: false
+    name: "Mark Treyger"
+    name_slug: "mark-treyger"
+    first_name: "Mark"
+    last_name: "Treyger"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1982-04-15"
+    title: "councilor"
+    party: "democrat"
+    email: "mtreyger@council.nyc.gov"
+    phone: "718-373-9673"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "marktreyger718"
+    twitter_url: "https://twitter.com/marktreyger718"
+    facebook_url: "https://www.facebook.com/CouncilMemberTreyger"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/mark-treyger.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 48
+    at_large: false
+    name: "Chaim Deutsch"
+    name_slug: "chaim-deutsch"
+    first_name: "Chaim"
+    last_name: "Deutsch"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1969-04-15"
+    title: "councilor"
+    party: "democrat"
+    email: "cdeutsch@council.nyc.gov"
+    phone: "718-368-9176"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "ChaimDeutsch"
+    twitter_url: "https://twitter.com/ChaimDeutsch"
+    facebook_url: "https://www.facebook.com/people/Councilman-Chaim-Deutsch/100004765095752"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/chaim-deutsch.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 49
+    at_large: false
+    name: "Deborah Rose"
+    name_slug: "deborah-rose"
+    first_name: "Deborah"
+    last_name: "Rose"
+    gender: "female"
+    ethnicity: "african-american"
+    date_of_birth: null
+    title: "deputy-majority-leader"
+    party: "democrat"
+    email: "drose@council.nyc.gov"
+    phone: "718-556-7370"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "CMDebiRose"
+    twitter_url: "https://twitter.com/CMDebiRose"
+    facebook_url: "https://www.facebook.com/CouncilwomanDebiRose"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/deborah-rose.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 50
+    at_large: false
+    name: "Steven Matteo"
+    name_slug: "steven-matteo"
+    first_name: "Steven"
+    last_name: "Matteo"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1977-02-18"
+    title: "minority-leader"
+    party: "republican"
+    email: "smatteo@council.nyc.gov"
+    phone: "718-980-1017"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "StevenMatteo"
+    twitter_url: "https://twitter.com/StevenMatteo"
+    facebook_url: "https://www.facebook.com/StevenMatteoSI"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/steven-matteo.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: 51
+    at_large: false
+    name: "Joe Borreli"
+    name_slug: "joe-borreli"
+    first_name: "Joe"
+    last_name: "Borreli"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1982-07-27"
+    title: "councilor"
+    party: "republican"
+    email: "borelli@council.nyc.gov"
+    phone: "718-984-5151"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "joeborellinyc"
+    twitter_url: "https://twitter.com/joeborellinyc"
+    facebook_url: "https://www.facebook.com/joe.borelli"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/joe-borreli.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: null
+    at_large: false
+    name: "Bill De Blasio"
+    name_slug: "bill-de-blasio"
+    first_name: "Bill"
+    last_name: "De Blasio"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1961-05-08"
+    title: "mayor"
+    party: "democrat"
+    email: null
+    phone: "212-788-3000"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "BilldeBlasio"
+    twitter_url: "https://twitter.com/BilldeBlasio"
+    facebook_url: "https://www.facebook.com/bill.deblasio/"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/bill-de-blasio.jpg"
+  - 
+    state_code: "NY"
+    state_name: "New York"
+    state_slug: "new-york"
+    city_name: "New York"
+    city_slug: "new-york"
+    city_population: 8550405
+    city_background_url: "https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg"
+    city_government_url: "http://www.nycgo.com"
+    city_council_url: "http://council.nyc.gov/html/members/members.shtml"
+    city_council_council_calendar_url: "http://legistar.council.nyc.gov/Calendar.aspx"
+    city_council_legislation_url: null
+    city_council_committees_url: null
+    city_latitude: 40.6643
+    city_longitude: -73.9385
+    district: null
+    at_large: false
+    name: "Cyrus Vance"
+    name_slug: "cyrus-vance"
+    first_name: "Cyrus"
+    last_name: "Vance"
+    gender: "male"
+    ethnicity: "white-american"
+    date_of_birth: "1954-06-14"
+    title: "district-attorney"
+    party: "independent"
+    email: null
+    phone: "212-335-9000"
+    address_complete: "250 Broadway Suite 1823 New York, NY 10007"
+    address_number: 250
+    address_prefix: null
+    address_street: "Broadway"
+    address_sec_unit_type: "Suite"
+    address_sec_unit_num: 1823
+    address_city: "New York"
+    address_state: "NY"
+    address_zipcode: 10007
+    address_type: null
+    twitter_handle: "ManhattanDA"
+    twitter_url: "https://twitter.com/ManhattanDA"
+    facebook_url: "https://www.facebook.com/ManhattanDistrictAttorney"
+    photo_url: "https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/cyrus-vance.jpg"
+

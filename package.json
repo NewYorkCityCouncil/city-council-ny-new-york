@@ -26,8 +26,11 @@
     "state_code": "NY",
     "city_name": "New York",
     "city_population": "8550405",
-    "city_website": "http://www.nycgo.com",
-    "public_records": "",
+    "city_government_url": "http://www.nycgo.com",
+    "city_council_url": "http://council.nyc.gov/html/members/members.shtml",
+    "city_council_calendar_url": "http://legistar.council.nyc.gov/Calendar.aspx",
+    "city_council_legislation_url": "http://legistar.council.nyc.gov/Legislation.aspx",
+    "city_council_committees_url": "http://legistar.council.nyc.gov/Departments.aspx",
     "latitude": "40.6643",
     "longitude": "-73.9385"
   },
@@ -49,14 +52,14 @@
     "json-to-yml": "if ( test -e ./city-council/data/city-council-data.json ); then ./node_modules/.bin/json2yaml ./city-council/data/city-council-data.json > ./city-council/data/city-council-data.yml && echo '✓ Updated city-council/data/city-council-data.yml'; else echo '\n× Missing ./city-council/data/city-council-data.json ( npm run -s convert-csv )\n'; fi",
     "json-to-xml": "if ( test -e ./city-council/data/city-council-data.json ); then node ./.scripts/json-to-xml.js && echo '✓ Updated city-council/data/city-council-data.xml'; else echo '\n× Missing ./city-council/data/city-council-data.json ( npm run -s convert-csv )\n'; fi",
     "csv-to-sql": "if ( test -e ./city-council/data/city-council-data.json ); then node ./.scripts/csv-to-sql.js && echo '✓ Updated city-council/data/city-council-data.sql'; else echo '\n× Missing ./city-council/data/city-council-data.json ( npm run -s convert-csv )\n'; fi",
-    "csv-to-json": "if ( test -e ./city-council/data/city-council-data.json ); then ./node_modules/.bin/csvtojson ./city-council/data/city-council-data.csv > ./city-council/data/city-council-data.json && echo '✓ Updated city-council/data/city-council-data.json'; else echo '\n× Missing ./city-council/data/city-council-data.json ( npm run -s convert-csv )\n'; fi",
+    "csv-to-json": "if ( test -e ./city-council/data/city-council-data.csv ); then ./node_modules/.bin/csvtojson ./city-council/data/city-council-data.csv > ./city-council/data/city-council-data.json && json-pretty-print ./city-council/data/city-council-data.json ./city-council/data/city-council-data.json && sed -i '' 's/\"\"/null/g'  ./city-council/data/city-council-data.json && sed -i '' 's/\"district\": 0/\"district\": null/g'  ./city-council/data/city-council-data.json && echo '✓ Updated city-council/data/city-council-data.json'; else echo '\n× Missing ./city-council/data/city-council-data.csv ( npm run -s convert-csv )\n'; fi",
     "resize-headshots": "node ./.scripts/resize-headshots.js",
     "resize-backgrounds": "node ./.scripts/resize-backgrounds.js",
     "console-headshots": "node ./.scripts/console-headshots.js",
     "convert-csv": "if ( test -e ./uploads/city-council-data.csv ); then node ./.scripts/convert-csv.js; else echo '\n× Missing ./uploads/city-council-data.csv ( see ./uploads/README.md )\n'; fi",
     "build-images": "npm run -s resize-headshots && npm run -s resize-backgrounds && echo '\n☆ Image Conversion Complete\n'",
-    "build-data": "if ( test -e ./city-council/data/city-council-data.json ); then npm run -s csv-to-json && npm run -s json-to-yml && npm run -s json-to-xml && npm run -s csv-to-sql && echo '\n☆ Data Conversion Complete\n'; else echo '\n× Missing ./uploads/city-council-data.csv ( see ./uploads/README.md )\n'; fi",
-    "build": "if ( test -e ./uploads/city-council-data.csv ); then npm run -s convert-csv && npm run -s build-data && npm run -s build-images && echo '\n☆ヽ(´▽｀)ノ All Done \n'; else echo '\n× Missing ./uploads/city-council-data.csv ( see ./uploads/README.md )\n'; fi"
+    "build-data": "if ( test -e ./city-council/data/city-council-data.csv ); then npm run -s csv-to-json && npm run -s json-to-yml && npm run -s json-to-xml && npm run -s csv-to-sql && echo '\n☆ Data Conversion Complete\n'; else echo '\n× Missing ./city-council/data/city-council-data.csv\n'; fi",
+    "build": "npm run -s convert-csv && npm run -s build-data && npm run -s build-images && echo '\n☆ヽ(´▽｀)ノ All Done \n'"
   },
   "devDependencies": {
     "csvtojson": "^1.1.2",
@@ -64,9 +67,11 @@
     "glob": "^7.1.1",
     "gm": "^1.23.0",
     "js2xmlparser": "^2.0.2",
+    "json-pretty-print": "0.0.4",
     "json2csv": "^3.7.3",
     "json2yaml": "^1.1.0",
     "object.values": "^1.0.4",
+    "parse-address": "0.0.6",
     "slug": "^0.9.1",
     "stream-replace": "^1.0.0"
   }
