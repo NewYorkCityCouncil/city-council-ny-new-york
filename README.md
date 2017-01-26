@@ -21,7 +21,7 @@ New York City Links
 
 
 Introduction
----
+===
 
 This project provides the City Council Data, Headshots & City Photo for New York, NY ( GeoJSON, JSON, XML, CSV, SQL & YML formats ).  See [Provided Data](#provided-data) below for full list of data in this project.
 
