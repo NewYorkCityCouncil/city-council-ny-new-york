@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://civilserviceusa.github.io/city-council-ny-new-york/sitemap.xml
