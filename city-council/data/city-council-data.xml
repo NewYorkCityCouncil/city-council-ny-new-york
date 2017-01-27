@@ -9,10 +9,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>1</district>
@@ -24,6 +24,8 @@
         <gender>female</gender>
         <ethnicity>asian-american</ethnicity>
         <date_of_birth>1954-05-26</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>chin@council.nyc.gov</email>
@@ -52,10 +54,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>2</district>
@@ -67,6 +69,8 @@
         <gender>female</gender>
         <ethnicity>hispanic-american</ethnicity>
         <date_of_birth>1963-02-28</date_of_birth>
+        <entered_office>2006-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>rmendez@council.nyc.gov</email>
@@ -95,10 +99,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>3</district>
@@ -110,6 +114,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1982-04-28</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>district3@council.nyc.gov</email>
@@ -138,10 +144,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>4</district>
@@ -153,6 +159,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1972-05-04</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>garodnick@council.nyc.gov</email>
@@ -181,10 +189,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>5</district>
@@ -196,6 +204,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1981-02-05</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>bkallos@council.nyc.gov</email>
@@ -224,10 +234,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>6</district>
@@ -239,6 +249,8 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1960-10-24</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>helen@helenrosenthal.com</email>
@@ -267,10 +279,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>7</district>
@@ -282,6 +294,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1969-04-30</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>district7@council.nyc.gov</email>
@@ -310,10 +324,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>8</district>
@@ -325,6 +339,8 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1969-04-01</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>mviverito@council.nyc.gov</email>
@@ -353,10 +369,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>9</district>
@@ -368,6 +384,8 @@
         <gender>female</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>null</date_of_birth>
+        <entered_office>2006-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>dickens@council.nyc.gov</email>
@@ -396,10 +414,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>10</district>
@@ -411,6 +429,8 @@
         <gender>male</gender>
         <ethnicity>hispanic-american</ethnicity>
         <date_of_birth>1965-06-18</date_of_birth>
+        <entered_office>2009-11-24</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>yrodriguez@council.nyc.gov</email>
@@ -439,10 +459,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>11</district>
@@ -454,6 +474,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1969-08-09</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>district11@council.nyc.gov</email>
@@ -482,10 +504,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>12</district>
@@ -497,6 +519,8 @@
         <gender>male</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>null</date_of_birth>
+        <entered_office>2012-11-07</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>andy.king@council.nyc.gov</email>
@@ -525,10 +549,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>13</district>
@@ -540,6 +564,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1955-08-23</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>jvacca@council.nyc.gov</email>
@@ -568,10 +594,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>14</district>
@@ -583,6 +609,8 @@
         <gender>male</gender>
         <ethnicity>hispanic-american</ethnicity>
         <date_of_birth>1964-04-18</date_of_birth>
+        <entered_office>2010-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>fcabrera@council.nyc.gov</email>
@@ -611,10 +639,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>15</district>
@@ -626,6 +654,8 @@
         <gender>male</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>1988-03-12</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>deputy-leader</title>
         <party>democrat</party>
         <email>rtorres@council.nyc.gov</email>
@@ -654,10 +684,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>16</district>
@@ -669,6 +699,8 @@
         <gender>female</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>1979-03-19</date_of_birth>
+        <entered_office>2009-06-02</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>district16bronx@council.nyc.gov</email>
@@ -697,10 +729,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>17</district>
@@ -712,6 +744,8 @@
         <gender>male</gender>
         <ethnicity>hispanic-american</ethnicity>
         <date_of_birth>1980-07-02</date_of_birth>
+        <entered_office>2016-03-08</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>salamanca@council.nyc.gov</email>
@@ -740,10 +774,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>18</district>
@@ -752,9 +786,11 @@
         <name_slug>annabel-palma</name_slug>
         <first_name>Annabel</first_name>
         <last_name>Palma</last_name>
-        <gender>male</gender>
+        <gender>female</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>null</date_of_birth>
+        <entered_office>2004-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>apalma@council.nyc.gov</email>
@@ -783,10 +819,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>19</district>
@@ -798,6 +834,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1967-06-02</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>district19@council.nyc.gov</email>
@@ -826,10 +864,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>20</district>
@@ -841,6 +879,8 @@
         <gender>male</gender>
         <ethnicity>asian-american</ethnicity>
         <date_of_birth>1952-01-12</date_of_birth>
+        <entered_office>2010-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>pkoo@council.nyc.gov</email>
@@ -869,10 +909,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>21</district>
@@ -884,6 +924,8 @@
         <gender>female</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>1976-11-02</date_of_birth>
+        <entered_office>2009-02-24</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>cd21invites@council.nyc.gov</email>
@@ -912,10 +954,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>22</district>
@@ -927,6 +969,8 @@
         <gender>male</gender>
         <ethnicity>hispanic-american</ethnicity>
         <date_of_birth>1975-01-07</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>costa@council.nyc.gov</email>
@@ -955,10 +999,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>23</district>
@@ -970,6 +1014,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1960-02-12</date_of_birth>
+        <entered_office>2015-11-24</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>m23@council.nyc.gov</email>
@@ -998,10 +1044,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>24</district>
@@ -1013,6 +1059,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1969-03-01</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>rlancman@council.nyc.gov</email>
@@ -1041,10 +1089,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>25</district>
@@ -1056,6 +1104,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>null</date_of_birth>
+        <entered_office>2010-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>ddromm@council.nyc.gov</email>
@@ -1084,10 +1134,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>26</district>
@@ -1099,6 +1149,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1969-08-19</date_of_birth>
+        <entered_office>2010-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>majority-leader</title>
         <party>democrat</party>
         <email>jvanbramer@council.nyc.gov</email>
@@ -1127,10 +1179,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>27</district>
@@ -1142,6 +1194,8 @@
         <gender>male</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>1960-11-06</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>district27@council.nyc.gov</email>
@@ -1170,10 +1224,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>28</district>
@@ -1185,6 +1239,8 @@
         <gender>male</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>null</date_of_birth>
+        <entered_office>2011-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>rw@council.nyv.gov</email>
@@ -1213,10 +1269,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>29</district>
@@ -1228,6 +1284,8 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>null</date_of_birth>
+        <entered_office>2010-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>koslowitz@council.nyc.gov</email>
@@ -1256,10 +1314,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>30</district>
@@ -1271,6 +1329,8 @@
         <gender>female</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1977-11-27</date_of_birth>
+        <entered_office>2009-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>ecrowley@council.nyc.gov</email>
@@ -1299,10 +1359,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>31</district>
@@ -1314,6 +1374,8 @@
         <gender>male</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>null</date_of_birth>
+        <entered_office>2013-02-20</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>drichards@council.nyc.gov</email>
@@ -1342,10 +1404,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>32</district>
@@ -1357,6 +1419,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1985-02-13</date_of_birth>
+        <entered_office>2009-02-24</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>republican</party>
         <email>eulrich@council.nyc.gov</email>
@@ -1385,10 +1449,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>33</district>
@@ -1400,6 +1464,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1981-12-03</date_of_birth>
+        <entered_office>2010-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>slevin@council.nyc.gov</email>
@@ -1428,10 +1494,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>34</district>
@@ -1443,6 +1509,8 @@
         <gender>male</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>1983-05-09</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>areynoso@council.nyc.gov</email>
@@ -1471,10 +1539,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>35</district>
@@ -1486,6 +1554,8 @@
         <gender>female</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>1975-02-21</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>lcumbo@council.nyc.gov</email>
@@ -1514,10 +1584,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>36</district>
@@ -1529,6 +1599,8 @@
         <gender>male</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>null</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>rcornegy@council.nyc.gov</email>
@@ -1557,10 +1629,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>37</district>
@@ -1572,6 +1644,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>null</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>respinal@council.nyc.gov</email>
@@ -1600,10 +1674,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>38</district>
@@ -1615,6 +1689,8 @@
         <gender>male</gender>
         <ethnicity>hispanic-american</ethnicity>
         <date_of_birth>1980-09-11</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>info38@council.nyc.gov</email>
@@ -1643,10 +1719,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>39</district>
@@ -1658,6 +1734,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>null</date_of_birth>
+        <entered_office>2010-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>lander@council.nyc.gov</email>
@@ -1686,10 +1764,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>40</district>
@@ -1701,6 +1779,8 @@
         <gender>male</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>1954-04-01</date_of_birth>
+        <entered_office>2007-05-09</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>mathieu.eugene@council.nyc.gov</email>
@@ -1729,10 +1809,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>41</district>
@@ -1744,6 +1824,8 @@
         <gender>female</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>null</date_of_birth>
+        <entered_office>2006-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>mealy@council.nyc.gov</email>
@@ -1772,10 +1854,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>42</district>
@@ -1787,6 +1869,8 @@
         <gender>female</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>null</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>barron@council.nyc.gov</email>
@@ -1815,10 +1899,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>43</district>
@@ -1830,6 +1914,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1959-01-03</date_of_birth>
+        <entered_office>2003-03-18</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>vgentile@council.nyc.gov</email>
@@ -1858,10 +1944,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>44</district>
@@ -1873,6 +1959,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>null</date_of_birth>
+        <entered_office>2010-03-25</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>dgreenfield@council.nyc.gov</email>
@@ -1901,10 +1989,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>45</district>
@@ -1916,6 +2004,8 @@
         <gender>male</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>1976-05-11</date_of_birth>
+        <entered_office>2010-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>jwilliams@council.nyc.gov</email>
@@ -1944,10 +2034,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>46</district>
@@ -1959,6 +2049,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1945-07-25</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>amaisel@council.nyc.gov</email>
@@ -1987,10 +2079,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>47</district>
@@ -2002,6 +2094,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1982-04-15</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>mtreyger@council.nyc.gov</email>
@@ -2030,10 +2124,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>48</district>
@@ -2045,6 +2139,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1969-04-15</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>democrat</party>
         <email>cdeutsch@council.nyc.gov</email>
@@ -2073,10 +2169,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>49</district>
@@ -2088,6 +2184,8 @@
         <gender>female</gender>
         <ethnicity>african-american</ethnicity>
         <date_of_birth>null</date_of_birth>
+        <entered_office>2010-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>deputy-majority-leader</title>
         <party>democrat</party>
         <email>drose@council.nyc.gov</email>
@@ -2116,10 +2214,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>50</district>
@@ -2131,6 +2229,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1977-02-18</date_of_birth>
+        <entered_office>2015-07-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>minority-leader</title>
         <party>republican</party>
         <email>smatteo@council.nyc.gov</email>
@@ -2159,21 +2259,23 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>51</district>
         <at_large>false</at_large>
-        <name>Joe Borreli</name>
-        <name_slug>joe-borreli</name_slug>
+        <name>Joe Borelli</name>
+        <name_slug>joe-borelli</name_slug>
         <first_name>Joe</first_name>
-        <last_name>Borreli</last_name>
+        <last_name>Borelli</last_name>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1982-07-27</date_of_birth>
+        <entered_office>2015-11-30</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>councilor</title>
         <party>republican</party>
         <email>borelli@council.nyc.gov</email>
@@ -2191,7 +2293,7 @@
         <twitter_handle>joeborellinyc</twitter_handle>
         <twitter_url>https://twitter.com/joeborellinyc</twitter_url>
         <facebook_url>https://www.facebook.com/joe.borelli</facebook_url>
-        <photo_url>https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/joe-borreli.jpg</photo_url>
+        <photo_url>https://cdn.civil.services/city-council/ny/new-york/headshots/512x512/joe-borelli.jpg</photo_url>
     </councilor>
     <councilor>
         <state_code>NY</state_code>
@@ -2202,10 +2304,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>null</district>
@@ -2217,6 +2319,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1961-05-08</date_of_birth>
+        <entered_office>2014-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>mayor</title>
         <party>democrat</party>
         <email>null</email>
@@ -2245,10 +2349,10 @@
         <city_population>8550405</city_population>
         <city_background_url>https://cdn.civil.services/city-council/ny/new-york/backgrounds/1280x720/city.jpg</city_background_url>
         <city_government_url>http://www.nycgo.com</city_government_url>
-        <city_council_url>http://council.nyc.gov/html/members/members.shtml</city_council_url>
-        <city_council_council_calendar_url>http://legistar.council.nyc.gov/Calendar.aspx</city_council_council_calendar_url>
-        <city_council_legislation_url>null</city_council_legislation_url>
-        <city_council_committees_url>null</city_council_committees_url>
+        <city_council_url>http://council.nyc.gov/districts/</city_council_url>
+        <city_council_council_calendar_url>null</city_council_council_calendar_url>
+        <city_council_legislation_url>http://legistar.council.nyc.gov/Legislation.aspx</city_council_legislation_url>
+        <city_council_committees_url>http://legistar.council.nyc.gov/Departments.aspx</city_council_committees_url>
         <city_latitude>40.6643</city_latitude>
         <city_longitude>-73.9385</city_longitude>
         <district>null</district>
@@ -2260,6 +2364,8 @@
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
         <date_of_birth>1954-06-14</date_of_birth>
+        <entered_office>2010-01-01</entered_office>
+        <term_end>2017-12-31</term_end>
         <title>district-attorney</title>
         <party>independent</party>
         <email>null</email>

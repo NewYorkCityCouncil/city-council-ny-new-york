@@ -30,6 +30,8 @@ CREATE TABLE `city-council` (
   `gender` enum('female','male','unspecified') NOT NULL DEFAULT 'unspecified',
   `ethnicity` enum('african-american','asian-american','hispanic-american','middle-eastern-american','multi-racial-american','native-american','pacific-islander','white-american','unspecified') NOT NULL DEFAULT 'unspecified',
   `date_of_birth` date DEFAULT NULL,
+  `entered_office` date DEFAULT NULL,
+  `term_end` date DEFAULT NULL,
   `title` enum('alderman','chairman','city-attorney','city-auditor','city-controller','commissioner','council-president','councilor','deputy-leader','deputy-mayor-pro-tem','deputy-majority-leader','deputy-majority-whip','deputy-minority-leader','deputy-minority-whip','district-attorney','majority-leader','majority-whip','mayor','mayor-pro-tem','minority-leader','minority-whip','representative','supervisor','president','president-pro-tem','vice-chairman','vice-mayor','vice-president','vacant') NOT NULL DEFAULT 'councilor',
   `party` enum('constitution','democrat','green','independent','libertarian','nonpartisan','republican') NOT NULL DEFAULT 'nonpartisan',
   `email` varchar(100) DEFAULT NULL,

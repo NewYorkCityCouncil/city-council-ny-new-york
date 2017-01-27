@@ -27,7 +27,7 @@
     "city_name": "New York",
     "city_population": "8550405",
     "city_government_url": "http://www.nycgo.com",
-    "city_council_url": "http://council.nyc.gov/html/members/members.shtml",
+    "city_council_url": "http://council.nyc.gov/districts/",
     "city_council_calendar_url": "http://legistar.council.nyc.gov/Calendar.aspx",
     "city_council_legislation_url": "http://legistar.council.nyc.gov/Legislation.aspx",
     "city_council_committees_url": "http://legistar.council.nyc.gov/Departments.aspx",
