@@ -43,8 +43,20 @@ function getProperties(district) {
  * @param data - GeoJSON Data for District
  */
 function createDistrictMap(data) {
+  var district = {
+    "type": "Feature",
+    "provider": {
+      "name": "Civil Services",
+      "email": "hello@civil.services",
+      "homepage": "https://civil.services",
+      "repository": "https://civilserviceusa.github.io/city-council-ny-new-york/"
+    },
+    "properties": data.properties,
+    "geometry": data.geometry
+  };
+
   var filename = 'city-council/geojson/city-council-' + slug(pjson.cityData.state_code, { lower: true, replacement: '-' }) + '-' + slug(pjson.cityData.city_name, { lower: true, replacement: '-' }) + '-' + slug(data.district, { lower: true, replacement: '-' }) + '.geojson';
-  fs.writeFile(filename, JSON.stringify(geojson, null, 2));
+  fs.writeFile(filename, JSON.stringify(district, null, 2));
 
   console.log('✓ Created ./' + filename);
 }
