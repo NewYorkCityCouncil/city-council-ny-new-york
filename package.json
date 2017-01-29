@@ -1,6 +1,6 @@
 {
   "name": "civil-services-city-council-ny-new-york",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "City Council Data, Headshots & City Photo for New York, NY ( GeoJSON, JSON, XML, CSV, SQL & YML formats )",
   "license": "MIT",
   "keywords": [
@@ -35,7 +35,7 @@
     "latitude": "40.6643",
     "longitude": "-73.9385"
   },
-  "main": "data/city-council.json",
+  "main": "city-council/data/city-council-data.json",
   "homepage": "https://civilserviceusa.github.io/city-council-ny-new-york/",
   "repository": {
     "type": "git",
