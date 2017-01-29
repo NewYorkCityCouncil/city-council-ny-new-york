@@ -10,17 +10,12 @@ var data_file = path.join(__dirname, '../city-council/data/city-council-data.jso
 
 var collection = {
   "type": "FeatureCollection",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "provider": {
     "name": "Civil Services",
     "email": "hello@civil.services",
+    "twitter": "https://twitter.com/CivilServiceUSA",
     "homepage": "https://civil.services",
-    "repository": "https://civilserviceusa.github.io/city-council-ny-new-york/"
+    "repository": "https://github.com/CivilServiceUSA/city-council-ny-new-york"
   },
   "features": []
 };
@@ -48,8 +43,9 @@ function createDistrictMap(data) {
     "provider": {
       "name": "Civil Services",
       "email": "hello@civil.services",
+      "twitter": "https://twitter.com/CivilServiceUSA",
       "homepage": "https://civil.services",
-      "repository": "https://civilserviceusa.github.io/city-council-ny-new-york/"
+      "repository": "https://github.com/CivilServiceUSA/city-council-ny-new-york"
     },
     "properties": data.properties,
     "geometry": data.geometry

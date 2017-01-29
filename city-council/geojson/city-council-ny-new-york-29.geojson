@@ -3,8 +3,9 @@
   "provider": {
     "name": "Civil Services",
     "email": "hello@civil.services",
+    "twitter": "https://twitter.com/CivilServiceUSA",
     "homepage": "https://civil.services",
-    "repository": "https://civilserviceusa.github.io/city-council-ny-new-york/"
+    "repository": "https://github.com/CivilServiceUSA/city-council-ny-new-york"
   },
   "properties": {
     "state_code": "NY",
