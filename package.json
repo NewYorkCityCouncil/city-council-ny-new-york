@@ -57,9 +57,10 @@
     "resize-backgrounds": "node ./.scripts/resize-backgrounds.js",
     "console-headshots": "node ./.scripts/console-headshots.js",
     "convert-csv": "if ( test -e ./source/city-council-data.csv ); then node ./.scripts/convert-csv.js; else echo '\n× Missing ./source/city-council-data.csv ( see ./source/README.md )\n'; fi",
+    "build-geojson": "node ./.scripts/create-geojson.js",
     "build-images": "npm run -s resize-headshots && npm run -s resize-backgrounds && echo '\n☆ Image Conversion Complete\n'",
     "build-data": "if ( test -e ./city-council/data/city-council-data.csv ); then npm run -s csv-to-json && npm run -s json-to-yml && npm run -s json-to-xml && npm run -s csv-to-sql && echo '\n☆ Data Conversion Complete\n'; else echo '\n× Missing ./city-council/data/city-council-data.csv\n'; fi",
-    "build": "npm run -s convert-csv && npm run -s build-data && npm run -s build-images && echo '\n☆ヽ(´▽｀)ノ All Done \n'"
+    "build": "npm run -s convert-csv && npm run -s build-data && npm run -s build-images && npm run -s build-geojson && echo '\n☆ヽ(´▽｀)ノ All Done \n'"
   },
   "devDependencies": {
     "csvtojson": "^1.1.2",
