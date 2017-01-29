@@ -48,21 +48,23 @@
     <meta name="dc:description" content="New York, NY City Council">
 
     <!-- App Icons -->
-
     <link rel="shortcut icon" href="https://cdn.civil.services/app-icons/favicon.ico">
     <link rel="apple-touch-icon" sizes="144x144" href="https://cdn.civil.services/app-icons/favicon-retina-ipad.png">
     <link rel="apple-touch-icon" sizes="114x114" href="https://cdn.civil.services/app-icons/favicon-retina-iphone.png">
     <link rel="apple-touch-icon" sizes="72x72" href="https://cdn.civil.services/app-icons/favicon-standard-ipad.png">
     <link rel="apple-touch-icon" sizes="57x57" href="https://cdn.civil.services/app-icons/favicon-standard-iphone.png">
 
+    <!-- External Styles -->
     <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.2/material.blue-orange.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="https://cdn.civil.services/city-council/assets/city-council-v1.0.0.css">
+
+    <!-- Local Styles -->
+    <link rel="stylesheet" href="source/www/city-council.css">
 
 </head>
 
-<body style="background-image: url(./city-council/images/backgrounds/1920x1080/city.jpg); background-size: cover;">
+<body>
 
 <section>
     <header>
@@ -90,105 +92,108 @@
             </div>
 
             <div class="control-group stats">
-                <h2>Showing:</h2>
-                <label class="control control--checkbox">
-                    <span class="count"></span> of <span class="total"></span> ( <span class="percent"></span> )
-                </label>
+                Showing: <span class="count"></span> of <span class="total"></span> ( <span class="percent"></span> )
             </div>
 
             <div class="control-group">
-                <h2>Party:</h2>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="constitution" id="party-constitution"> Constitution
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="democrat" id="party-democrat"> Democrat
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="independent" id="party-independent"> Independent
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="green" id="party-green"> Green
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="libertarian" id="party-libertarian"> Libertarian
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="nonpartisan" id="party-nonpartisan"> Nonpartisan
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="republican" id="party-republican"> Republican
-                    <div class="control__indicator"></div>
-                </label>
+                <h2><a href="javascript:void(0);" onclick="$('.filter-party').slideToggle(); $('.toggle-filter-party').toggleClass('fa-angle-down').toggleClass('fa-angle-right');" class="toggle-filter-button"><i class="fa fa-fw fa-angle-right toggle-filter-party"></i> Party</a></h2>
+                <div class="toggle-filter filter-party">
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="constitution" id="party-constitution"> Constitution
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="democrat" id="party-democrat"> Democrat
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="independent" id="party-independent"> Independent
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="green" id="party-green"> Green
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="libertarian" id="party-libertarian"> Libertarian
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="nonpartisan" id="party-nonpartisan"> Nonpartisan
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="republican" id="party-republican"> Republican
+                        <div class="control__indicator"></div>
+                    </label>
+                </div>
             </div>
 
             <div class="control-group">
-                <h2>Gender:</h2>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="female" id="gender-female"> Female
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="male" id="gender-male"> Male
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="unspecified" id="gender-unspecified"> Unspecified
-                    <div class="control__indicator"></div>
-                </label>
+                <h2><a href="javascript:void(0);" onclick="$('.filter-gender').slideToggle(); $('.toggle-filter-gender').toggleClass('fa-angle-down').toggleClass('fa-angle-right');" class="toggle-filter-button"><i class="fa fa-fw fa-angle-right toggle-filter-gender"></i> Gender</a></h2>
+                <div class="toggle-filter filter-gender">
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="female" id="gender-female"> Female
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="male" id="gender-male"> Male
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="unspecified" id="gender-unspecified"> Unspecified
+                        <div class="control__indicator"></div>
+                    </label>
+                </div>
             </div>
 
             <div class="control-group">
-                <h2>Ethnicity:</h2>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="african-american" id="ethnicity-african-american"> African American
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="asian-american" id="ethnicity-asian-american"> Asian American
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="hispanic-american" id="ethnicity-hispanic-american"> Hispanic American
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="middle-eastern-american" id="ethnicity-middle-eastern-american"> Middle Eastern American
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="multi-racial-american" id="ethnicity-multi-racial-american"> Multi Racial American
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="native-american" id="ethnicity-native-american"> Native American
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="pacific-islander" id="ethnicity-pacific-islander"> Pacific Islander
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="white-american" id="ethnicity-white-american"> White American
-                    <div class="control__indicator"></div>
-                </label>
-                <label class="control control--checkbox">
-                    <input type="checkbox" value="unspecified" id="ethnicity-unspecified"> Unspecified
-                    <div class="control__indicator"></div>
-                </label>
+                <h2><a href="javascript:void(0);" onclick="$('.filter-ethnicity').slideToggle(); $('.toggle-filter-ethnicity').toggleClass('fa-angle-down').toggleClass('fa-angle-right');" class="toggle-filter-button"><i class="fa fa-fw fa-angle-right toggle-filter-ethnicity"></i> Ethnicity</a></h2>
+                <div class="toggle-filter filter-ethnicity">
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="african-american" id="ethnicity-african-american"> African American
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="asian-american" id="ethnicity-asian-american"> Asian American
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="hispanic-american" id="ethnicity-hispanic-american"> Hispanic American
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="middle-eastern-american" id="ethnicity-middle-eastern-american"> Middle Eastern American
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="multi-racial-american" id="ethnicity-multi-racial-american"> Multi Racial American
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="native-american" id="ethnicity-native-american"> Native American
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="pacific-islander" id="ethnicity-pacific-islander"> Pacific Islander
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="white-american" id="ethnicity-white-american"> White American
+                        <div class="control__indicator"></div>
+                    </label>
+                    <label class="control control--checkbox">
+                        <input type="checkbox" value="unspecified" id="ethnicity-unspecified"> Unspecified
+                        <div class="control__indicator"></div>
+                    </label>
+                </div>
             </div>
         </div>
     </div>
     <div class="modal-overlay fade-in c0" onclick="closeSearch()"></div>
 </div>
 
-<script src="https://cdn.civil.services/city-council/assets/city-council-v1.0.0.js"></script>
+<script src="source/www/city-council.js"></script>
 
 </body>
 

@@ -1,7 +1,7 @@
 {
   "name": "civil-services-city-council-ny-new-york",
   "version": "1.0.0",
-  "description": "City Council Data for New York, NY ( JSON, XML, CSV, SQL & YML formats )",
+  "description": "City Council Data, Headshots & City Photo for New York, NY ( GeoJSON, JSON, XML, CSV, SQL & YML formats )",
   "license": "MIT",
   "keywords": [
     "Civil Services",
@@ -12,6 +12,7 @@
     "NY",
     "data",
     "json",
+    "geojson",
     "csv",
     "yml",
     "sql",
