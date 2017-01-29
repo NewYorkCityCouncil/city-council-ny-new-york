@@ -93,7 +93,7 @@ We have completed the following Data Collection for New York, NY. [Watch Project
 - [X] City Photo Created
 - [X] Councilor Headshots Created
 - [X] Images Uploaded to CDN
-- [ ] GeoJSON File Created
+- [X] GeoJSON File Created
 - [ ] Published NPM Package
 
 Developers
