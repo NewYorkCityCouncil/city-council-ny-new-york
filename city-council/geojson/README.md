@@ -6,4 +6,4 @@ __Civil Services__ is a collection of tools that make it possible for citizens t
 GeoJSON
 ===
 
-This directory is for storing a GeoJSON file.
+The GeoJSON files in this directory are automatically generated.  Do not edit these files directly.
