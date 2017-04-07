@@ -20,7 +20,7 @@ City Council Data for New York, NY
 ![Councilor Helen Rosenthal](city-council/images/headshots/128x128/helen-rosenthal.jpg "Councilor Helen Rosenthal")
 ![Councilor Mark Levine](city-council/images/headshots/128x128/mark-levine.jpg "Councilor Mark Levine")
 ![Councilor Melissa  Mark-Viverito](city-council/images/headshots/128x128/melissa-mark-viverito.jpg "Councilor Melissa  Mark-Viverito")
-![Councilor Inez Dickens](city-council/images/headshots/128x128/inez-dickens.jpg "Councilor Inez Dickens")
+![Councilor Bill Perkins](city-council/images/headshots/128x128/bill-perkins.jpg "Councilor Bill Perkins")
 ![Councilor Ydanis Rodriguez](city-council/images/headshots/128x128/ydanis-rodriguez.jpg "Councilor Ydanis Rodriguez")
 ![Councilor Andrew Cohen](city-council/images/headshots/128x128/andrew-cohen.jpg "Councilor Andrew Cohen")
 ![Councilor Andy King](city-council/images/headshots/128x128/andy-king.jpg "Councilor Andy King")
