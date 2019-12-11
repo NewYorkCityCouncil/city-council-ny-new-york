@@ -24,15 +24,15 @@ section {
 
 header {
     height: 100px;
-    background: -moz-linear-gradient(top, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
-    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
-    background: linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#00ffffff', GradientType=0);
+    background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0) 100%);
+    background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0) 100%);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#CC000000', endColorstr='#00000000', GradientType=0);
 }
 
 header h1 {
     margin: 0;
-    color: #444;
+    color: #FFF;
     font-weight: 300;
     line-height: 100px;
     text-align: center;
@@ -54,6 +54,10 @@ header h1 {
     text-align: center;
     -webkit-overflow-scrolling: touch;
     transition: opacity 1s;
+    opacity: 0;
+}
+.councilors.enabled {
+    opacity: 1;
 }
 section {
     transition: filter 0.5s;
@@ -80,16 +84,14 @@ section.searching {
     transition: box-shadow 0.15s;
     display: inline-block;
     text-align: left;
+    background: transparent;
+}
+.mdl-card__supporting-text, .mdl-card__actions {
+    background: #FFF;
 }
 
 .card-square.mdl-card:hover, .card-square.mdl-card:focus {
     box-shadow: 0 8px 10px 1px rgba(0, 0, 0, .3), 0 3px 14px 2px rgba(0, 0, 0, .2), 0 5px 5px -3px rgba(0, 0, 0, .3);
-}
-
-.card-square > .mdl-card__title {
-    color: #fff;
-    background: #03a9f4;
-    height: 200px;
 }
 
 .card-square > .mdl-card__accent {
@@ -119,25 +121,18 @@ section.searching {
 }
 
 .card-square > .mdl-card__title {
-    background: center center no-repeat #787878;
+    background: url(background.png) center center no-repeat rgba(0,0,0,0.33);
     background-size: 100% auto;
     overflow: hidden;
     position: relative;
-    transition: filter 0.15s, background-size 0.15s;
+    transition: background-size 0.15s;
     height: 280px;
-    filter: grayscale(100%);
-    -webkit-filter: grayscale(100%);
-    -moz-filter: grayscale(100%);
-    -o-filter: grayscale(100%);
     margin: -1px;
+    color: #fff;
 }
 
 .card-square:hover > .mdl-card__title, .card-square:focus > .mdl-card__title {
     background-size: 110% auto;
-    -webkit-filter: grayscale(0%);
-    -moz-filter: grayscale(0%);
-    -o-filter: grayscale(0%);
-    filter: grayscale(0%);
 }
 
 .card-square > .mdl-card__title > .mdl-card__title-text {
@@ -167,9 +162,9 @@ section.searching {
 .footer {
     height: 60px;
     line-height: 60px;
-    background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.9) 100%);
-    background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.9) 100%);
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.9) 100%);
+    background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 1) 100%);
+    background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 1) 100%);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#AA000000', GradientType=0);
     position: absolute;
     bottom: 0;
@@ -183,9 +178,11 @@ section.searching {
     padding: 0 20px;
     color: #FFF;
     font-weight: 300;
-    opacity: 0.5;
+    opacity: 0.75;
     transition: opacity 0.25s;
     line-height: 60px;
+    text-shadow: 3px 3px rgba(0,0,0,.95);
+    position: relative;
 }
 
 .footer a:hover, .footer a:focus {
@@ -374,6 +371,7 @@ x
 
 .force-overflow {
     min-height: calc(100% - 160px);
+    overflow-x: hidden;
 }
 
 .scrollbar::-webkit-scrollbar-track {
@@ -406,16 +404,16 @@ x
 
 .modal .modal-content {
     width: 300px;
-    height: 300px;
+    height: 360px;
     background: #FFF;
     margin: 0 auto;
-    margin-top: calc(50vh - 150px);
+    margin-top: calc(50vh - 180px);
     z-index: 6000;
     position: relative;
     box-shadow: 0 8px 10px 1px rgba(0, 0, 0, .3), 0 3px 14px 2px rgba(0, 0, 0, .2), 0 5px 5px -3px rgba(0, 0, 0, .3);
-    padding: 20px;
+    padding: 0;
     border-radius: 2px;
-    overflow: scroll;
+    overflow: hidden;
 }
 
 .modal .modal-overlay {
@@ -428,11 +426,25 @@ x
     z-index: 5000;
 }
 
+.modal .filter-header {
+    height: 85px;
+    padding: 20px 20px 0 20px;
+}
+
+.modal .filter-options {
+    height: calc(100% - 115px);
+    width: 100%;
+}
+
 .control-group {
     display: block;
     vertical-align: top;
     background: #fff;
     text-align: left;
+}
+
+.modal .filter-options .control-group {
+    padding-left: 20px;
 }
 
 .control-group h2 {
@@ -444,14 +456,18 @@ x
 }
 
 .control {
-    display: inline-block;
+    display: block;
     position: relative;
     padding-left: 30px;
     margin-bottom: 5px;
     cursor: pointer;
-    font-size: 18px;
+    font-size: 16px;
     margin-right: 10px;
     font-weight: 300;
+    width: 230px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
 
 .control input {
@@ -568,6 +584,9 @@ input[type="text"]:focus {
     header h1 {
         font-size: 46px;
     }
+    .modal .modal-content {
+        margin-top: calc(50vh - 200px);
+    }
 }
 
 @media (max-width: 414px) {
@@ -620,5 +639,201 @@ input[type="text"]:focus {
 
     .mdl-button {
         min-width: 23px;
+    }
+}
+
+label.badge {
+    position: absolute;
+    background: #d41717;
+    text-shadow: none;
+    font-weight: 600;
+    font-size: 9px;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+    border-radius: 50%;
+    top: -16px;
+    left: 16px;
+    color: #FFF;
+    display: none;
+}
+.show-filtering {
+    position: relative;
+    right: 10px;
+    top: 10px;
+    float: right;
+    display: none;
+}
+
+#loading {
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.25);
+    position: fixed;
+    z-index: 999;
+}
+#loading #preloader {
+    position: relative;
+    width: 100%;
+    height: 80px;
+    top: calc(50% - 50px);
+    text-align: center;
+    margin: 0 auto;
+}
+#loading #preloader span {
+    position: absolute;
+    border: 8px solid #fff;
+    border-top: 8px solid transparent;
+    border-radius: 999px;
+}
+#loading #preloader span:nth-child(1) {
+    width: 80px;
+    height: 80px;
+    left: calc(50% - 40px);
+    -webkit-animation: spin-1 1s infinite ease;
+    -moz-animation: spin-1 1s infinite ease;
+    animation: spin-1 1s infinite ease;
+}
+#loading #preloader span:nth-child(2) {
+    top: 20px;
+    left: calc(50% - 20px);
+    width: 40px;
+    height: 40px;
+    -webkit-animation: spin-2 1s infinite ease;
+    -moz-animation: spin-2 1s infinite ease;
+    animation: spin-2 1s infinite ease;
+}
+#loading #preloader:after {
+    content: "Civil Services";
+    position: absolute;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 400;
+    color: #fff;
+    letter-spacing: 2px;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    top: 110px;
+    width: 100%;
+    left: 0;
+    right: 0;
+    height: 1px;
+    text-align: center;
+    text-indent: 15px;
+}
+
+@-webkit-keyframes spin-1 {
+    0% {
+        -webkit-transform: rotate(360deg);
+        opacity: 1
+    }
+    50% {
+        -webkit-transform: rotate(180deg);
+        opacity: 0.5
+    }
+    100% {
+        -webkit-transform: rotate(0deg);
+        opacity: 1
+    }
+}
+
+@-moz-keyframes spin-1 {
+    0% {
+        -moz-transform: rotate(360deg);
+        opacity: 1
+    }
+    50% {
+        -moz-transform: rotate(180deg);
+        opacity: 0.5
+    }
+    100% {
+        -moz-transform: rotate(0deg);
+        opacity: 1
+    }
+}
+
+@keyframes spin-1 {
+    0% {
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+        opacity: 1
+    }
+    50% {
+        -webkit-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        transform: rotate(180deg);
+        opacity: 0.5
+    }
+    100% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes spin-2 {
+    0% {
+        -webkit-transform: rotate(0deg);
+        opacity: 0.5
+    }
+    50% {
+        -webkit-transform: rotate(180deg);
+        opacity: 1
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        opacity: 0.5
+    }
+}
+
+@-moz-keyframes spin-2 {
+    0% {
+        -moz-transform: rotate(0deg);
+        opacity: 0.5
+    }
+    50% {
+        -moz-transform: rotate(180deg);
+        opacity: 1
+    }
+    100% {
+        -moz-transform: rotate(360deg);
+        opacity: 0.5
+    }
+}
+
+@keyframes spin-2 {
+    0% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+        opacity: 0.5
+    }
+    50% {
+        -webkit-transform: rotate(180deg);
+        -moz-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        transform: rotate(180deg);
+        opacity: 1
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+        opacity: 0.5
     }
 }
